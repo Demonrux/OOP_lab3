@@ -18,7 +18,7 @@ markdown
 - **Тригонометрические функции**: sin, cos, tg, ctg
 
 ### Интерфейс:
-- <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d1e17669-ffa8-4fb2-9c8d-cb6552c7940c" />
+ <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d1e17669-ffa8-4fb2-9c8d-cb6552c7940c" />
 
 - **Графический интерфейс** на Qt с современным дизайном
 - **Подсветка ошибок** с понятными сообщениями

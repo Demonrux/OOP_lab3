@@ -28,6 +28,7 @@ markdown
 - **Форматирование чисел** с удалением лишних нулей
 
 ## Полная структура проекта
+```text
 OOP_lab3/
 ├── core/ # Основные классы ядра
 │ ├── calculationerror.h
@@ -42,8 +43,7 @@ OOP_lab3/
 │ └── calculatorwindow.ui
 ├── OOP_lab3.pro # Файл проекта qmake
 └── main.cpp
-
-text
+```
 
 ## Ключевые компоненты системы
 
